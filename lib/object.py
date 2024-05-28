@@ -8,7 +8,7 @@ class Person:
    #This is the class attribute
     species = "Homo sapiens"
 
-#!Initialize --> This is to create a copy of  a class using it __init__ magical method or the dunder method
+#!Initialize --> This is to create a copy of  a class using it __init__ magical method or the 'dunder' method
     def __init__(self) -> None:
       pass
   
